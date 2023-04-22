@@ -3,7 +3,7 @@ Section: sound
 Priority: optional
 Maintainer: Julian Andres Klode <jak@debian.org>
 Standards-Version: 4.4.0
-Build-Depends: debhelper (>= 13~)
+Build-Depends: debhelper-compat (= 13)
 Homepage: https://jak-linux.org/projects/dir2ogg/
 VCS-Git: https://github.com/julian-klode/dir2ogg.git
 VCS-Browser: https://github.com/julian-klode/dir2ogg
