@@ -118,7 +118,7 @@ dir2ogg (0.11-1) unstable; urgency=low
 
 dir2ogg (0.11~rc1-1) unstable; urgency=low
 
-  * First release candidate of dir2ogg 0.11, with improved MP3 support 
+  * First release candidate of dir2ogg 0.11, with improved MP3 support
     and more.
   * First 0.11 series upload to unstable
 
